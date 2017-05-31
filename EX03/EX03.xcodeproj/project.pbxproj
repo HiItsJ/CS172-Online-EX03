@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		8A8F8C4B1EDE4BEE0068EF98 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8A8F8C4A1EDE4BEE0068EF98 /* main.cpp */; };
 		8A8F8C531EDE4C410068EF98 /* Fan.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8A8F8C511EDE4C410068EF98 /* Fan.cpp */; };
+		8A8F8C561EDE59900068EF98 /* QuadraticEquation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8A8F8C541EDE59900068EF98 /* QuadraticEquation.cpp */; };
+		8A8F8C591EDE814D0068EF98 /* EvenNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8A8F8C571EDE814D0068EF98 /* EvenNumber.cpp */; };
+		8A8F8C5C1EDE87610068EF98 /* MyInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8A8F8C5A1EDE87610068EF98 /* MyInteger.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +31,12 @@
 		8A8F8C4A1EDE4BEE0068EF98 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8A8F8C511EDE4C410068EF98 /* Fan.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Fan.cpp; sourceTree = "<group>"; };
 		8A8F8C521EDE4C410068EF98 /* Fan.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Fan.hpp; sourceTree = "<group>"; };
+		8A8F8C541EDE59900068EF98 /* QuadraticEquation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = QuadraticEquation.cpp; sourceTree = "<group>"; };
+		8A8F8C551EDE59900068EF98 /* QuadraticEquation.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = QuadraticEquation.hpp; sourceTree = "<group>"; };
+		8A8F8C571EDE814D0068EF98 /* EvenNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EvenNumber.cpp; sourceTree = "<group>"; };
+		8A8F8C581EDE814D0068EF98 /* EvenNumber.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = EvenNumber.hpp; sourceTree = "<group>"; };
+		8A8F8C5A1EDE87610068EF98 /* MyInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MyInteger.cpp; sourceTree = "<group>"; };
+		8A8F8C5B1EDE87610068EF98 /* MyInteger.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MyInteger.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +72,12 @@
 				8A8F8C4A1EDE4BEE0068EF98 /* main.cpp */,
 				8A8F8C511EDE4C410068EF98 /* Fan.cpp */,
 				8A8F8C521EDE4C410068EF98 /* Fan.hpp */,
+				8A8F8C541EDE59900068EF98 /* QuadraticEquation.cpp */,
+				8A8F8C551EDE59900068EF98 /* QuadraticEquation.hpp */,
+				8A8F8C571EDE814D0068EF98 /* EvenNumber.cpp */,
+				8A8F8C581EDE814D0068EF98 /* EvenNumber.hpp */,
+				8A8F8C5A1EDE87610068EF98 /* MyInteger.cpp */,
+				8A8F8C5B1EDE87610068EF98 /* MyInteger.hpp */,
 			);
 			path = EX03;
 			sourceTree = "<group>";
@@ -125,7 +140,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A8F8C4B1EDE4BEE0068EF98 /* main.cpp in Sources */,
+				8A8F8C561EDE59900068EF98 /* QuadraticEquation.cpp in Sources */,
+				8A8F8C591EDE814D0068EF98 /* EvenNumber.cpp in Sources */,
 				8A8F8C531EDE4C410068EF98 /* Fan.cpp in Sources */,
+				8A8F8C5C1EDE87610068EF98 /* MyInteger.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
